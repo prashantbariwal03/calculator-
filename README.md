@@ -1,6 +1,6 @@
-# 🧮 Simple Calculator in Python
+# Simple Calculator in Python
 
-## 📌 Project Overview
+## Project Overview
 This is a basic command-line calculator built using Python.  
 It performs fundamental arithmetic operations and includes proper error handling.
 
@@ -8,7 +8,7 @@ This project was developed as part of the CRT (Campus Recruitment Training) clas
 
 ---
 
-## 🚀 Features
+## Features
 - Addition (+)
 - Subtraction (-)
 - Multiplication (*)
@@ -19,13 +19,13 @@ This project was developed as part of the CRT (Campus Recruitment Training) clas
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python 3
 - Command Line Interface (CLI)
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Install Python (if not installed)
 2. Save the file as `calculator.py`
@@ -38,7 +38,7 @@ python calculator.py
 
 ---
 
-## 📷 Sample Output
+## Sample Output
 
 ```
 Simple Calculator
@@ -54,7 +54,7 @@ Do another calculation? (yes/no): no
 
 ---
 
-## 🎯 Learning Outcome
+## Learning Outcome
 - Understanding conditional statements
 - Exception handling (try-except)
 - Loop control
@@ -62,5 +62,5 @@ Do another calculation? (yes/no): no
 
 ---
 
-👨‍💻 Developed by: **Prashant Bariwal**  
-📚 CRT Classes Assignment
+ Developed by: **Prashant Bariwal**  
+ CRT Classes Assignment
